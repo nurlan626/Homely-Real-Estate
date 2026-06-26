@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    display: grid;
+
+    
+}
+
+h1{
+    color: black;
+}
+h3{
+    color: grey;
+}
